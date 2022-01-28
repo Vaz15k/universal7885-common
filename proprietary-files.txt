@@ -1,0 +1,2 @@
+# AptX
+lib64/libaptX_encoder.so
